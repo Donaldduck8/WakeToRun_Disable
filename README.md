@@ -1,4 +1,4 @@
-# WakeToRun_Removal
+# WakeToRun_Disable
 A clean, invisible and easy-to-use script that periodically disables the "Wake To Run" property for scheduled tasks. This script requires [PsExec](https://docs.microsoft.com/en-us/sysinternals/downloads/psexec).
 
 ___
